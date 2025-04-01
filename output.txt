@@ -1,0 +1,8 @@
+Log 1: Laptop added to inventory.
+Log 2: Phone added to inventory.
+Log 3: 10 units added to Laptop. New stock: 10
+Log 4: 5 units added to Phone. New stock: 5
+Log 5: 3 units of Laptop sold. Remaining stock: 7
+Log 6: Not enough stock for Phone. Available stock: 5
+Log 7: Stock for Laptop: 7
+Log 8: Stock for Phone: 5
